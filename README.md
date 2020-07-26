@@ -1,6 +1,6 @@
-# A repository to help beginners build solid mental models for JavaScript.
+# [JS fundementals](https://syntax.fm/show/162/the-fundamentals-js) | Build solid mental models for JavaScript.
 
-### ✋ What to learn before moving on to Node or React.
+### ✋ What beginners should know before moving on to Node or frameworks.
 
 Take [5 minutes](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/) ⏱ everyday to work towards fully understanding one of these topics.
 
