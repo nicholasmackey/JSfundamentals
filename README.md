@@ -1,52 +1,51 @@
 # JSfundamentals
-A repository to help beginners to build solid mental models for JavaScript.
+## A repository to help beginners to build solid mental models for JavaScript.
 
 
-Fundamentals of JavaScript
-* What to learn before moving on to Node or React.
+### ✋What to learn before moving on to Node or React.
 
 
-Take 5 minutes everyday to work towards fully understanding one of these topics.
+Take 5 minutes ⏱ everyday to work towards fully understanding one of these topics.
 
 
-—Variables + Scoping
+#### Variables + Scoping
 * var/let/const
 * Block scope
 * Function scope
 * Scope lookup
 
 
-— Types
+#### Types
 * Objects
     * Reference vs. Copy
 
     
-— Functions
+#### Functions
 * Types of functions
     * Anonymous vs. named
     * Expressions
-    * Arrow functions
+    * Arrow functions **() => {}**
 * Methods
 
 
- — DOM
+#### DOM
 * Selecting
 * Updating
 * Creating
 
 
-— Prototypes + this
+#### Prototypes + this
 * this
 * Objects
 
 
-— Events
-* Listening, callbacks
+#### Events
+* Listening, callbacks 👂 🗣
 * dispatchEvent
 * Bubbling
 
 
-— Arrays
+#### Arrays []
 * Push, pop, manipulate
 * Spread, rest
 * Map, filter, reduce
@@ -54,26 +53,26 @@ Take 5 minutes everyday to work towards fully understanding one of these topics.
 * Mutation vs. immutable
 
 
-— Flow control
+#### Flow control
 * Looping
 * If
 * Promises + Async + Await
 
 
-— Security and accessibility
+#### Security and accessibility
 * XSS and innerHTML
 
 
-— Things you should know, but not necessarily master
+#### Things you should know, but not necessarily master
 * Modules
 * Closures
 * Ajax requests
 
 
-— Clean code
+#### Clean code
 * [Clean Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
-Function Definition by [Wes Bos](https://github.com/wesbos)
+##### 🔥Function Definition by [Wes Bos](https://github.com/wesbos)
 
 ![Function Definition](images/function-definition.jpg)
