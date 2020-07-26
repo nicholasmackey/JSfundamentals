@@ -1,4 +1,6 @@
-# [JS fundementals](https://syntax.fm/show/162/the-fundamentals-js) | Build solid mental models for JavaScript.
+# [JavaScript Fundementals](https://syntax.fm/show/162/the-fundamentals-js)
+
+### Build solid mental models for JavaScript.
 
 ### ✋ What beginners should know before moving on to Node or frameworks.
 
