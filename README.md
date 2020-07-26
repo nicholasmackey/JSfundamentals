@@ -71,4 +71,9 @@ Take 5 minutes everyday to work towards fully understanding one of these topics.
 
 
 — Clean code
-[* Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Clean Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+
+Function Definition by [Wes Bos](https://github.com/wesbos)
+
+![Function Definition](images/function-definition.jpg)
