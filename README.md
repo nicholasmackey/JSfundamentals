@@ -1,5 +1,5 @@
 # JSfundamentals
-## A repository to help beginners to build solid mental models for JavaScript.
+## A repository to help beginners build solid mental models for JavaScript.
 
 
 ### ✋What to learn before moving on to Node or React.
@@ -73,6 +73,6 @@ Take [5 minutes](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep
 * [Clean Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
-##### 🔥Function Definition by [Wes Bos](https://github.com/wesbos)
+##### 🔥 Function Definition by [Wes Bos](https://github.com/wesbos)
 
 ![Function Definition](images/function-definition.jpg)
