@@ -5,7 +5,7 @@
 ### ✋What to learn before moving on to Node or React.
 
 
-Take 5 minutes ⏱ everyday to work towards fully understanding one of these topics.
+Take [5 minutes](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/) ⏱ everyday to work towards fully understanding one of these topics.
 
 
 #### Variables + Scoping
